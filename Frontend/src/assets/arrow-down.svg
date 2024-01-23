@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="16" height="16" style="" xmlns="http://www.w3.org/2000/svg">
+  <rect id="backgroundrect" width="100%" height="100%" x="0" y="0" fill="none" stroke="none"/>
+  <g class="currentLayer" style="">
+    <title>Layer 1</title>
+    <path fill="#ffffff" stroke="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M 3.062 4.923 L 8 11 L 12.665 4.924" id="svg_1" class="selected" fill-opacity="1" stroke-opacity="1"/>
+    <path fill="#ffffff" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="2" stroke-dasharray="none" stroke-linejoin="round" stroke-linecap="round" stroke-dashoffset="" fill-rule="nonzero" opacity="1" marker-start="" marker-mid="" marker-end="" d="M 12.613 4.91 L 3.147 4.924" id="svg_2"/>
+  </g>
+</svg>
